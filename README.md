@@ -7,6 +7,10 @@ It provides key insights into *property prices, sales trends, regional variation
 
 ---
 
+# Dataset
+https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
+---
+
 # Objectives
 - Analyze Melbourne house price data to identify key market trends.  
 - Visualize *average prices*, *total sales*, and *property distribution* by region and type.  
